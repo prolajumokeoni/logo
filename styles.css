@@ -1,0 +1,17 @@
+body {
+	background-color: #f9f9f9;
+	text-align: center;
+}
+.background {
+	margin: auto;
+	width: 0;
+	padding: 50px;
+	text-align: center;
+}
+
+.circle {
+	height: 200px;
+	width: 200px;
+	background-color: #8807cb;
+	border-radius: 50%;
+}
