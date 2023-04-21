@@ -14,4 +14,26 @@ body {
 	width: 200px;
 	background-color: #8807cb;
 	border-radius: 50%;
+	display: flex;
+	align-items: center;
+}
+
+.square1 {
+	height: 80px;
+  width: 80px;
+	margin-left: 40px;
+	background-color: #ecd0f6;
+	border-radius: 4px;
+	-ms-transform: rotate(20deg); 
+  transform: rotate(200deg);
+}
+
+.square2 {
+	height: 60px;
+  width: 60px;
+	margin-left: -70px;
+	background-color: #8807cb;
+	border-radius: 4px;
+	-ms-transform: rotate(20deg); 
+  transform: rotate(200deg);
 }
